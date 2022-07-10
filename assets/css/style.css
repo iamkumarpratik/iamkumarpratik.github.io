@@ -127,7 +127,7 @@ a:hover {
 /*--/ Title s /--*/
 .title-s {
   font-weight: 600;
-  color: #1e1e1e;
+  color: #335f8f;
   font-size: 1.1rem;
 }
 
@@ -733,7 +733,7 @@ a:hover {
   margin-bottom: 2rem;
 }
 .about-mf .about-img img {
-  margin-left: 10px;
+  margin-left: 150px;
 }
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
